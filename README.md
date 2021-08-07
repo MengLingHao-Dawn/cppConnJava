@@ -10,4 +10,4 @@
 #### 3. The Method of java for obtaining a signature: Enter in the path of java project: javap -s -private xxx.class.
 
 
-### 我是中国人，以上用英文知识图个练习英语，虽然没啥大用，勿喷。
+### 我是中国人，以上用英文只是图个练习英语，虽然没啥大用，勿喷。
