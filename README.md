@@ -8,6 +8,3 @@
 #### 1. The format of Java is file whose suffix is .class by compiling. If you used JARs you can make project package in JAR. I recommend the second way.
 #### 2. When you find class, if your java project has name of package, you must use package/class in your C++ code.
 #### 3. The Method of java for obtaining a signature: Enter in the path of java project: javap -s -private xxx.class.
-
-
-### 我是中国人，以上用英文只是图个练习英语，虽然没啥大用，勿喷。
